@@ -1,0 +1,7 @@
+<resources>
+    <!--<string name="app_name">Proyecto047</string>-->
+    <string name="app_name">Este mundo</string>
+    <string name="opcion1">Opcion 1</string>
+    <string name="opcion2">Opcion 2</string>
+    <string name="opcion3">Opcion 3</string>
+</resources>

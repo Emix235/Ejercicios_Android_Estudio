@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto045</string>
+    <string name="radiosuma">add</string>
+    <string name="radioresta">subtract</string>
+    <string name="botonoperacion">resolve</string>
+    <string name="hello">hola</string>
+</resources>
